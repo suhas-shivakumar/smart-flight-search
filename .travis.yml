@@ -10,10 +10,10 @@ before_install:
 deploy:
   provider: elasticbeanstalk
   region: "us-east-1"
-  app: "docker-1a-api"
-  env: "Docker-1a-api-env"
+  app: "smart flight search"
+  env: "Smartflightsearch-env"
   bucket_name: "elasticbeanstalk-us-east-1-886715373652"
-  bucket_path: "docker-1a-api"
+  bucket_path: "smart flight search"
   on:
     branch: master
   acess_key_id: $AWS_ACCESS_KEY
