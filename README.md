@@ -98,7 +98,3 @@ Finally, open a browser and go to `http://127.0.0.1:8000/`
 
 This library is released under the [MIT License](LICENSE).
 
-## Help
-
-You can find us on [StackOverflow](https://stackoverflow.com/questions/tagged/amadeus) or join our developer community on
-[Discord](https://discord.gg/cVrFBqx).
